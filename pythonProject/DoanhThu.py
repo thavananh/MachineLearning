@@ -8,18 +8,17 @@ def calculate_i_ngay_tong_ket(date):
     return seconds
 
 start_date = datetime(2020, 1, 1)
-end_date = datetime(2024, 6, 25)
+end_date = datetime(2024, 7, 2)
 
 records = []
 current_date = start_date
-id_number = 1
 
 while current_date <= end_date:
     i_ngay = calculate_i_ngay_tong_ket(current_date)
+    id_number = "DT" + current_date.strftime("%Y%m%d")
     tienthu = random.randint(100000000, 999999999)
-    records.append((f"MADOANHTHU{str(id_number).zfill(3)}", tienthu, current_date.strftime("%Y-%m-%d"), i_ngay))
+    records.append((f"{str(id_number).zfill(3)}", tienthu, current_date.strftime("%Y-%m-%d"), i_ngay))
     current_date += timedelta(days=1)
-    id_number += 1
 
 # Ghi dữ liệu vào file
 with open('doanhthu_record.txt', 'w') as file:
