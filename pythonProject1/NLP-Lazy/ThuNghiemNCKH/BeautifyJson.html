@@ -168,6 +168,7 @@
         </select>
         <button id="formatBtn">Format JSON</button>
         <button id="downloadBtn">Download</button>
+        <button id="clearBtn">Clear All</button>
     </div>
     <h2>Formatted JSON:</h2>
     <pre id="output"></pre>
@@ -182,6 +183,7 @@
             const output = document.getElementById('output');
             const downloadBtn = document.getElementById('downloadBtn');
             const themeSelect = document.getElementById('themeSelect');
+            const clearBtn = document.getElementById('clearBtn');
             const body = document.body;
 
             let jsonData = null;
@@ -198,20 +200,32 @@
             });
 
             fetchBtn.addEventListener('click', function() {
-                const url = urlInput.value;
+                let url = urlInput.value.trim();
                 if (url) {
+                    // Add protocol if missing
+                    if (!/^https?:\/\//i.test(url)) {
+                        url = 'https://' + url;
+                    }
+
                     fetch(url)
                         .then(response => {
                             if (!response.ok) {
-                                throw new Error('Network response was not ok');
+                                throw new Error('HTTP error, status = ' + response.status);
                             }
-                            return response.json();
+                            return response.text();
                         })
-                        .then(data => {
-                            jsonData = data;
-                            jsonInput.value = JSON.stringify(data, null, 2);
+                        .then(text => {
+                            try {
+                                jsonData = JSON.parse(text);
+                                jsonInput.value = JSON.stringify(jsonData, null, 2);
+                            } catch (e) {
+                                alert('Error parsing JSON: ' + e.message);
+                            }
                         })
-                        .catch(error => alert('Error fetching JSON: ' + error));
+                        .catch(error => {
+                            console.error(error);
+                            alert('Error fetching JSON: ' + error.message + '\nNote: CORS policy might block fetching this URL directly.');
+                        });
                 }
             });
 
@@ -244,13 +258,21 @@
                 }
             });
 
+            clearBtn.addEventListener('click', function() {
+                jsonInput.value = '';
+                output.innerHTML = '';
+                urlInput.value = '';
+                fileInput.value = '';
+                jsonData = null;
+            });
+
             themeSelect.addEventListener('change', function() {
                 body.className = themeSelect.value;
             });
 
             function syntaxHighlight(json) {
                 json = json.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                return json.replace(/("(\\u[\da-fA-F]{4}|\\[^u]|[^\\"])*"(?:\s*:)?|true|false|null|-?\d+(?:\.\d+)?(?:[eE][+\-]?\d+)?|[{}\[\]]|[:,])/g, function (match) {
+                return json.replace(/("(?:\\u[\da-fA-F]{4}|\\[^u]|[^\\"])*"(?:\s*:)?|true|false|null|-?\d+(?:\.\d+)?(?:[eE][+\-]?\d+)?|[{}\[\]]|[:,])/g, function (match) {
                     let cls = '';
                     if (/^"/.test(match)) {
                         if (/:$/.test(match)) {
