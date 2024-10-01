@@ -1,0 +1,51 @@
+<View>
+  <View style="padding: 0 1em; margin-left: 0.5em; background: #f1f1f1; border-radius: 3px">
+	<Header value="Aspect" />
+	<Labels name="entities" toName="text" overlapping="true" required="true">
+  	<Label value="Teaching quality" />
+  	<Label value="Course information" />
+  	<Label value="Learning environment" />
+  	<Label value="Support from lecturers" />
+  	<Label value="Organization and management" />
+  	<Label value="Test and evaluation" />
+    <Label value="Workload" />
+	<Label value="General review" />
+  	<!-- Add more entity labels as needed -->
+	</Labels>
+  </View>
+  <View style="padding: 0 1em; margin-left: 0.5em; background: #f1f1f1; border-radius: 3px">
+	<Header value="Sentiment" />
+	<Labels name="polarity" toName="text" spanOverlap="true" required="true">
+  	<Label value="Positive" background="green" />
+  	<Label value="Negative" background="red" />
+  	<Label value="Neutral" background="yellow" />
+  	<!-- Add more sentiment labels as needed -->
+	</Labels>
+  </View>
+  <View style="padding: 0 1em; margin-left: 0.5em; background: #f1f1f1; border-radius: 3px">
+    <Header value="Sentiment Component" />
+    <Labels name="sentence_component" toName="text" overlapping="true" required="true">
+      <Label value="Sentence Component" />
+    </Labels>
+  </View>
+  <Text name="text" value="$text" />
+</View>
+<!-- {
+  "data": {
+  "text": "this is a fun game and the graphics is good but there is some glitches and bug pls get rid of it soon.",
+  "entities": [
+    	{
+      	"start": 10,
+      	"end": 19,
+      	"label": "Entity 1",
+      	"sentiment": "Positive"
+    	},
+    	{
+      	"start": 42,
+      	"end": 50,
+      	"label": "Entity 2",
+      	"sentiment": "Negative"
+    	}
+  	]
+}
+} -->
