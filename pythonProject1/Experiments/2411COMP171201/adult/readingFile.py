@@ -9,7 +9,7 @@ for item in f:
         tmp_list.append(item1)
     data_list.append(tmp_list)
 
-headers = ['age', 'work class', 'education', 'education-num', 'marital-status', 'occupation',
+headers = ['age', 'work class', 'fnlwgt', 'education', 'education-num', 'marital-status', 'occupation',
                'relationship', 'race', 'sex', 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country', 'income']
 
 with open('adult.csv', 'w', newline='') as csvfile:
