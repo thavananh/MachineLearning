@@ -1,0 +1,787 @@
+[
+    {
+        "annotation_id": 1600,
+        "values": [
+            {
+                "start": 0,
+                "end": 64,
+                "text": "giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "text": "không hướng dẫn",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 82,
+                "end": 90,
+                "text": "tài liệu",
+                "labels": [
+                    "Course information"
+                ]
+            },
+            {
+                "start": 67,
+                "end": 81,
+                "text": "không cung cấp",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1601,
+        "values": [
+            {
+                "start": 0,
+                "end": 62,
+                "text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 62,
+                "text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "giảng dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "text": "cứng nhắc",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 28,
+                "text": "áp đặp",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 28,
+                "text": "áp đặp",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 44,
+                "text": "không thu hút",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 44,
+                "text": "không thu hút",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 47,
+                "end": 62,
+                "text": "gò bó sinh viên",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1602,
+        "values": [
+            {
+                "start": 0,
+                "end": 13,
+                "text": "giảng dạy hay",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "giảng dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 13,
+                "text": "hay",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 75,
+                "text": "đưa ra một số ví dụ thực tế để tăng sinh động cho tiết dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 75,
+                "text": "đưa ra một số ví dụ thực tế để tăng sinh động cho tiết dạy",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 30,
+                "end": 43,
+                "text": "ví dụ thực tế",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 52,
+                "end": 62,
+                "text": "sinh động",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1603,
+        "values": [
+            {
+                "start": 0,
+                "end": 39,
+                "text": "cho bài tập nâng cao khả năng tiếng anh",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 4,
+                "end": 11,
+                "text": "bài tập",
+                "labels": [
+                    "Workload"
+                ]
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "text": "nâng cao",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1604,
+        "values": [
+            {
+                "start": 0,
+                "end": 29,
+                "text": "em thấy học vậy cũng được rồi",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "text": "học",
+                "labels": [
+                    "General review"
+                ]
+            },
+            {
+                "start": 21,
+                "end": 29,
+                "text": "được rồi",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1605,
+        "values": [
+            {
+                "start": 0,
+                "end": 49,
+                "text": "đề cương môn học chưa được cập nhật cho sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 16,
+                "text": "đề cương môn học",
+                "labels": [
+                    "Course information"
+                ]
+            },
+            {
+                "start": 17,
+                "end": 35,
+                "text": "chưa được cập nhật",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1606,
+        "values": [
+            {
+                "start": 0,
+                "end": 84,
+                "text": "thầy cần tập trung thật nhiều vào phần trọng tâm trọng điểm mà môn học đã được đề ra",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 59,
+                "text": "phần trọng tâm trọng điểm",
+                "labels": [
+                    "Organization and management"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "text": "tập trung",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1607,
+        "values": [
+            {
+                "start": 0,
+                "end": 37,
+                "text": "giảng viên cho bài tập nhiều , đầy đủ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "text": "bài tập",
+                "labels": [
+                    "Workload"
+                ]
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "text": "nhiều",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "text": "đầy đủ",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1608,
+        "values": [
+            {
+                "start": 0,
+                "end": 60,
+                "text": "bài tập giảng viên cho tại lớp đáp ứng nhu cầu của sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 7,
+                "text": "bài tập",
+                "labels": [
+                    "Workload"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 46,
+                "text": "đáp ứng nhu cầu",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1609,
+        "values": [
+            {
+                "start": 0,
+                "end": 17,
+                "text": "thầy dạy có tâm ạ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "text": "thầy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 15,
+                "text": "dạy có tâm",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1610,
+        "values": [
+            {
+                "start": 0,
+                "end": 25,
+                "text": "kiến thức và cách dạy hay",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "kiến thức",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "text": "cách dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 25,
+                "text": "hay",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1611,
+        "values": [
+            {
+                "start": 0,
+                "end": 12,
+                "text": "thầy rất vui",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "text": "thầy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 12,
+                "text": "vui",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1612,
+        "values": [
+            {
+                "start": 0,
+                "end": 21,
+                "text": "gần gủi với sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 21,
+                "text": "gần gủi với sinh viên",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 7,
+                "text": "gần gủi",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1613,
+        "values": [
+            {
+                "start": 0,
+                "end": 31,
+                "text": "thầy dạy nhiệt tình và đúng giờ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 8,
+                "text": "thầy dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 8,
+                "text": "thầy dạy",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 19,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "text": "đúng giờ",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1614,
+        "values": [
+            {
+                "start": 0,
+                "end": 82,
+                "text": "thường xuyên cho bài tập về nhà giúp sinh viên nắm rõ được kiến thức vững chắc hơn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "text": "bài tập về nhà",
+                "labels": [
+                    "Workload"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 12,
+                "text": "thường xuyên",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 69,
+                "end": 78,
+                "text": "vững chắc",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1615,
+        "values": [
+            {
+                "start": 0,
+                "end": 12,
+                "text": "khá tận tình",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 12,
+                "text": "khá tận tình",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 4,
+                "end": 12,
+                "text": "tận tình",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1616,
+        "values": [
+            {
+                "start": 0,
+                "end": 44,
+                "text": "chọn thời gian báo cáo phù hợp cho sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 22,
+                "text": "thời gian báo cáo",
+                "labels": [
+                    "Organization and management"
+                ]
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "text": "phù hợp",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1617,
+        "values": [
+            {
+                "start": 0,
+                "end": 32,
+                "text": "giảng viên nhiệt tình , đúng giờ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "text": "đúng giờ",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1618,
+        "values": [
+            {
+                "start": 0,
+                "end": 31,
+                "text": "giảng viên tận tâm , nhiệt tình",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 18,
+                "text": "tận tâm",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 132,
+                "text": "cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 38,
+                "end": 71,
+                "text": "sinh viên thuyết trình các chủ đề",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 99,
+                "end": 132,
+                "text": "tăng cường khả năng làm việc nhóm",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1619,
+        "values": [
+            {
+                "start": 0,
+                "end": 78,
+                "text": "dạy kiến thức khá là cao cấp , vượt hơn khả năng hiểu biết của đa số sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 13,
+                "text": "dạy kiến thức",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "text": "cao cấp",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 58,
+                "text": "vượt hơn khả năng hiểu biết",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 1620,
+        "values": [
+            {
+                "start": 0,
+                "end": 17,
+                "text": "thầy dạy hiểu bài",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 8,
+                "text": "thầy dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "text": "hiểu bài",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    }
+]
