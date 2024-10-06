@@ -12,6 +12,8 @@ for item in f:
 headers = ['age', 'work class', 'fnlwgt', 'education', 'education-num', 'marital-status', 'occupation',
                'relationship', 'race', 'sex', 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country', 'income']
 
+print(data_list)
+
 with open('adult.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(headers)

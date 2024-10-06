@@ -1,6 +1,7 @@
 [
     {
         "annotation_id": 1600,
+        "full_text": "giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành , không cung cấp tài liệu để sinh viên học tập .",
         "values": [
             {
                 "start": 0,
@@ -8,6 +9,22 @@
                 "text": "giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành",
                 "labels": [
                     "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "text": "hướng dẫn",
+                "labels": [
+                    "Teaching quality"
                 ]
             },
             {
@@ -19,17 +36,25 @@
                 ]
             },
             {
-                "start": 82,
+                "start": 67,
+                "end": 111,
+                "text": "không cung cấp tài liệu để sinh viên học tập",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 73,
                 "end": 90,
-                "text": "tài liệu",
+                "text": "cung cấp tài liệu",
                 "labels": [
                     "Course information"
                 ]
             },
             {
                 "start": 67,
-                "end": 81,
-                "text": "không cung cấp",
+                "end": 90,
+                "text": "không cung cấp tài liệu",
                 "labels": [
                     "Negative"
                 ]
@@ -38,6 +63,7 @@
     },
     {
         "annotation_id": 1601,
+        "full_text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên .",
         "values": [
             {
                 "start": 0,
@@ -45,14 +71,6 @@
                 "text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên",
                 "labels": [
                     "Sentence Component"
-                ]
-            },
-            {
-                "start": 0,
-                "end": 62,
-                "text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên",
-                "labels": [
-                    "Negative"
                 ]
             },
             {
@@ -80,27 +98,11 @@
                 ]
             },
             {
-                "start": 22,
-                "end": 28,
-                "text": "áp đặp",
-                "labels": [
-                    "Sentence Component"
-                ]
-            },
-            {
                 "start": 31,
                 "end": 44,
                 "text": "không thu hút",
                 "labels": [
                     "Negative"
-                ]
-            },
-            {
-                "start": 31,
-                "end": 44,
-                "text": "không thu hút",
-                "labels": [
-                    "Sentence Component"
                 ]
             },
             {
@@ -115,6 +117,7 @@
     },
     {
         "annotation_id": 1602,
+        "full_text": "giảng dạy hay , đưa ra một số ví dụ thực tế để tăng sinh  động cho tiết dạy .",
         "values": [
             {
                 "start": 0,
@@ -145,14 +148,6 @@
                 "end": 75,
                 "text": "đưa ra một số ví dụ thực tế để tăng sinh động cho tiết dạy",
                 "labels": [
-                    "Teaching quality"
-                ]
-            },
-            {
-                "start": 16,
-                "end": 75,
-                "text": "đưa ra một số ví dụ thực tế để tăng sinh động cho tiết dạy",
-                "labels": [
                     "Sentence Component"
                 ]
             },
@@ -176,6 +171,7 @@
     },
     {
         "annotation_id": 1603,
+        "full_text": "cho bài tập nâng cao khả năng tiếng anh .",
         "values": [
             {
                 "start": 0,
@@ -205,6 +201,7 @@
     },
     {
         "annotation_id": 1604,
+        "full_text": "em thấy học vậy cũng được rồi .",
         "values": [
             {
                 "start": 0,
@@ -215,9 +212,9 @@
                 ]
             },
             {
-                "start": 8,
-                "end": 11,
-                "text": "học",
+                "start": 0,
+                "end": 29,
+                "text": "em thấy học vậy cũng được rồi",
                 "labels": [
                     "General review"
                 ]
@@ -234,6 +231,7 @@
     },
     {
         "annotation_id": 1605,
+        "full_text": "đề cương môn học chưa được cập nhật cho sinh viên .",
         "values": [
             {
                 "start": 0,
@@ -263,6 +261,7 @@
     },
     {
         "annotation_id": 1606,
+        "full_text": "thầy cần tập trung thật nhiều vào phần trọng tâm trọng điểm mà môn học đã được đề ra .",
         "values": [
             {
                 "start": 0,
@@ -292,6 +291,7 @@
     },
     {
         "annotation_id": 1607,
+        "full_text": "giảng viên cho bài tập nhiều , đầy đủ .",
         "values": [
             {
                 "start": 0,
@@ -329,6 +329,7 @@
     },
     {
         "annotation_id": 1608,
+        "full_text": "bài tập giảng viên cho tại lớp đáp ứng nhu cầu của sinh viên .",
         "values": [
             {
                 "start": 0,
@@ -358,6 +359,7 @@
     },
     {
         "annotation_id": 1609,
+        "full_text": "thầy dạy có tâm ạ .",
         "values": [
             {
                 "start": 0,
@@ -387,6 +389,7 @@
     },
     {
         "annotation_id": 1610,
+        "full_text": "kiến thức và cách dạy hay .",
         "values": [
             {
                 "start": 0,
@@ -424,6 +427,7 @@
     },
     {
         "annotation_id": 1611,
+        "full_text": "thầy rất vui .",
         "values": [
             {
                 "start": 0,
@@ -453,6 +457,7 @@
     },
     {
         "annotation_id": 1612,
+        "full_text": "gần gủi với sinh viên .",
         "values": [
             {
                 "start": 0,
@@ -482,6 +487,7 @@
     },
     {
         "annotation_id": 1613,
+        "full_text": "thầy dạy nhiệt tình và đúng giờ .",
         "values": [
             {
                 "start": 0,
@@ -527,6 +533,7 @@
     },
     {
         "annotation_id": 1614,
+        "full_text": "thường xuyên cho bài tập về nhà giúp sinh viên nắm rõ được kiến thức vững chắc hơn .",
         "values": [
             {
                 "start": 0,
@@ -564,6 +571,7 @@
     },
     {
         "annotation_id": 1615,
+        "full_text": "khá tận tình .",
         "values": [
             {
                 "start": 0,
@@ -593,6 +601,7 @@
     },
     {
         "annotation_id": 1616,
+        "full_text": "chọn thời gian báo cáo phù hợp cho sinh viên .",
         "values": [
             {
                 "start": 0,
@@ -622,6 +631,7 @@
     },
     {
         "annotation_id": 1617,
+        "full_text": "giảng viên nhiệt tình , đúng giờ .",
         "values": [
             {
                 "start": 0,
@@ -659,6 +669,7 @@
     },
     {
         "annotation_id": 1618,
+        "full_text": "giảng viên tận tâm , nhiệt tình , cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm .",
         "values": [
             {
                 "start": 0,
@@ -720,6 +731,7 @@
     },
     {
         "annotation_id": 1619,
+        "full_text": "dạy kiến thức khá là cao cấp , vượt hơn khả năng hiểu biết của đa số sinh viên .",
         "values": [
             {
                 "start": 0,
@@ -757,6 +769,7 @@
     },
     {
         "annotation_id": 1620,
+        "full_text": "thầy dạy hiểu bài .",
         "values": [
             {
                 "start": 0,

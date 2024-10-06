@@ -1,0 +1,25 @@
+id,Review,Sentence Component,aspect_text,aspect,sentiment_text,sentiment
+1600,"giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành , không cung cấp tài liệu để sinh viên học tập .",giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành,"giảng viên,hướng dẫn",Teaching quality,không hướng dẫn,Negative
+1600,"giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành , không cung cấp tài liệu để sinh viên học tập .",không cung cấp tài liệu để sinh viên học tập,cung cấp tài liệu,Course information,không cung cấp tài liệu,Negative
+1601,"giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên .","giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên",giảng dạy,Teaching quality,"cứng nhắc,áp đặp,không thu hút,gò bó sinh viên",Negative
+1602,"giảng dạy hay , đưa ra một số ví dụ thực tế để tăng sinh  động cho tiết dạy .",giảng dạy hay,giảng dạy,Teaching quality,hay,Positive
+1602,"giảng dạy hay , đưa ra một số ví dụ thực tế để tăng sinh  động cho tiết dạy .",đưa ra một số ví dụ thực tế để tăng sinh động cho tiết dạy,ví dụ thực tế,Teaching quality,sinh động,Positive
+1603,cho bài tập nâng cao khả năng tiếng anh .,cho bài tập nâng cao khả năng tiếng anh,bài tập,Workload,nâng cao,Positive
+1604,em thấy học vậy cũng được rồi .,em thấy học vậy cũng được rồi,em thấy học vậy cũng được rồi,General review,được rồi,Neutral
+1605,đề cương môn học chưa được cập nhật cho sinh viên .,đề cương môn học chưa được cập nhật cho sinh viên,đề cương môn học,Course information,chưa được cập nhật,Negative
+1606,thầy cần tập trung thật nhiều vào phần trọng tâm trọng điểm mà môn học đã được đề ra .,thầy cần tập trung thật nhiều vào phần trọng tâm trọng điểm mà môn học đã được đề ra,phần trọng tâm trọng điểm,Organization and management,tập trung,Neutral
+1607,"giảng viên cho bài tập nhiều , đầy đủ .","giảng viên cho bài tập nhiều , đầy đủ",bài tập,Workload,"nhiều,đầy đủ",Positive
+1608,bài tập giảng viên cho tại lớp đáp ứng nhu cầu của sinh viên .,bài tập giảng viên cho tại lớp đáp ứng nhu cầu của sinh viên,bài tập,Workload,đáp ứng nhu cầu,Positive
+1609,thầy dạy có tâm ạ .,thầy dạy có tâm ạ,thầy,Teaching quality,dạy có tâm,Positive
+1610,kiến thức và cách dạy hay .,kiến thức và cách dạy hay,"kiến thức,cách dạy",Teaching quality,hay,Positive
+1611,thầy rất vui .,thầy rất vui,thầy,Teaching quality,vui,Positive
+1612,gần gủi với sinh viên .,gần gủi với sinh viên,gần gủi với sinh viên,Teaching quality,gần gủi,Positive
+1613,thầy dạy nhiệt tình và đúng giờ .,thầy dạy nhiệt tình và đúng giờ,thầy dạy,Teaching quality,"thầy dạy,nhiệt tình,đúng giờ",Positive
+1614,thường xuyên cho bài tập về nhà giúp sinh viên nắm rõ được kiến thức vững chắc hơn .,thường xuyên cho bài tập về nhà giúp sinh viên nắm rõ được kiến thức vững chắc hơn,bài tập về nhà,Workload,"thường xuyên,vững chắc",Positive
+1615,khá tận tình .,khá tận tình,khá tận tình,Teaching quality,tận tình,Positive
+1616,chọn thời gian báo cáo phù hợp cho sinh viên .,chọn thời gian báo cáo phù hợp cho sinh viên,thời gian báo cáo,Organization and management,phù hợp,Positive
+1617,"giảng viên nhiệt tình , đúng giờ .","giảng viên nhiệt tình , đúng giờ",giảng viên,Teaching quality,"nhiệt tình,đúng giờ",Positive
+1618,"giảng viên tận tâm , nhiệt tình , cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm .","giảng viên tận tâm , nhiệt tình",giảng viên,Teaching quality,"tận tâm,nhiệt tình",Positive
+1618,"giảng viên tận tâm , nhiệt tình , cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm .","cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm",sinh viên thuyết trình các chủ đề,Teaching quality,tăng cường khả năng làm việc nhóm,Positive
+1619,"dạy kiến thức khá là cao cấp , vượt hơn khả năng hiểu biết của đa số sinh viên .","dạy kiến thức khá là cao cấp , vượt hơn khả năng hiểu biết của đa số sinh viên",dạy kiến thức,Teaching quality,"cao cấp,vượt hơn khả năng hiểu biết",Negative
+1620,thầy dạy hiểu bài .,thầy dạy hiểu bài,thầy dạy,Teaching quality,hiểu bài,Positive

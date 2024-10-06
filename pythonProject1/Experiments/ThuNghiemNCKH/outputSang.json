@@ -1,0 +1,3040 @@
+[
+    {
+        "annotation_id": 801,
+        "full_text": "cô thân thiện với học sinh , truyền cảm hứng , động lực tốt .",
+        "values": [
+            {
+                "start": 0,
+                "end": 59,
+                "text": "cô thân thiện với học sinh , truyền cảm hứng , động lực tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 59,
+                "text": "cô thân thiện với học sinh , truyền cảm hứng , động lực tốt",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 59,
+                "text": "cô thân thiện với học sinh , truyền cảm hứng , động lực tốt",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 2,
+                "text": "cô",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 3,
+                "end": 13,
+                "text": "thân thiện",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 44,
+                "text": "truyền cảm hứng",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 44,
+                "text": "truyền cảm hứng",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 44,
+                "text": "truyền cảm hứng",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 47,
+                "end": 59,
+                "text": "động lực tốt",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 47,
+                "end": 59,
+                "text": "động lực tốt",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 47,
+                "end": 59,
+                "text": "động lực tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 802,
+        "full_text": "thầy kiểm tra quá nhiều .",
+        "values": [
+            {
+                "start": 0,
+                "end": 23,
+                "text": "thầy kiểm tra quá nhiều",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "text": "kiểm tra",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "text": "quá nhiều",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 803,
+        "full_text": "thầy rất khắt khe trong việc dùng từ chuyên ngành .",
+        "values": [
+            {
+                "start": 0,
+                "end": 49,
+                "text": "thầy rất khắt khe trong việc dùng từ chuyên ngành",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 49,
+                "text": "từ chuyên ngành",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "text": "khắt khe",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "text": "khắt khe",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 804,
+        "full_text": "thầy dạy rất tốt .",
+        "values": [
+            {
+                "start": 0,
+                "end": 16,
+                "text": "thầy dạy rất tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "text": "dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "text": "tốt",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 805,
+        "full_text": "những gì được học nó nhằm mục đích gì ?",
+        "values": [
+            {
+                "start": 0,
+                "end": 37,
+                "text": "những gì được học nó nhằm mục đích gì",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "text": "mục đích",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 806,
+        "full_text": "cần cung cấp thêm tài liệu học tập môn học này .",
+        "values": [
+            {
+                "start": 0,
+                "end": 46,
+                "text": "cần cung cấp thêm tài liệu học tập môn học này",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 18,
+                "end": 34,
+                "text": "tài liệu học tập",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "text": "thêm",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 807,
+        "full_text": "cách dạy của thầy rất nhàm chán , không có nhiều hoạt động thực tế , bài tập thầy cho chỉ áp sát lý thuyết mà chưa thực tế .",
+        "values": [
+            {
+                "start": 0,
+                "end": 31,
+                "text": "cách dạy của thầy rất nhàm chán",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 66,
+                "text": "không có nhiều hoạt động thực tế",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 66,
+                "text": "không có nhiều hoạt động thực tế",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 69,
+                "end": 122,
+                "text": "bài tập thầy cho chỉ áp sát lý thuyết mà chưa thực tế",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 8,
+                "text": "cách dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 69,
+                "end": 76,
+                "text": "bài tập",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 31,
+                "text": "nhàm chán",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 59,
+                "end": 66,
+                "text": "thực tế",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 59,
+                "end": 66,
+                "text": "thực tế",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 808,
+        "full_text": "nên dành nhiều thời gian cho bài tập và hướng dẫn cụ thể phương pháp giải hơn .",
+        "values": [
+            {
+                "start": 0,
+                "end": 77,
+                "text": "nên dành nhiều thời gian cho bài tập và hướng dẫn cụ thể phương pháp giải hơn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 77,
+                "text": "nên dành nhiều thời gian cho bài tập và hướng dẫn cụ thể phương pháp giải hơn",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "text": "bài tập",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "text": "bài tập",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 40,
+                "end": 49,
+                "text": "hướng dẫn",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 40,
+                "end": 49,
+                "text": "hướng dẫn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 14,
+                "text": "nhiều",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 809,
+        "full_text": "đôi khi học sinh nào bận muốn về trước thầy vẫn cho .",
+        "values": [
+            {
+                "start": 0,
+                "end": 51,
+                "text": "đôi khi học sinh nào bận muốn về trước thầy vẫn cho",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 39,
+                "end": 43,
+                "text": "thầy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "text": "vẫn cho",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 810,
+        "full_text": "nhiều lúc lớp chỉ có hai người đi học .",
+        "values": [
+            {
+                "start": 0,
+                "end": 37,
+                "text": "nhiều lúc lớp chỉ có hai người đi học",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 13,
+                "text": "lớp",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "text": "chỉ có hai người",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 811,
+        "full_text": "có thể chia nhóm ra làm thực hành !",
+        "values": [
+            {
+                "start": 0,
+                "end": 33,
+                "text": "có thể chia nhóm ra làm thực hành",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 33,
+                "text": "có thể chia nhóm ra làm thực hành",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 7,
+                "end": 16,
+                "text": "chia nhóm",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 7,
+                "end": 16,
+                "text": "chia nhóm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 24,
+                "end": 33,
+                "text": "thực hành",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 812,
+        "full_text": "thầy wzjwz83 rất nhiệt huyết trong việc giảng dạy .",
+        "values": [
+            {
+                "start": 0,
+                "end": 49,
+                "text": "thầy wzjwz83 rất nhiệt huyết trong việc giảng dạy",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 40,
+                "end": 49,
+                "text": "giảng dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "text": "nhiệt huyết",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 813,
+        "full_text": "thầy vui quá đi hi hi .",
+        "values": [
+            {
+                "start": 0,
+                "end": 21,
+                "text": "thầy vui quá đi hi hi",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 21,
+                "text": "thầy vui quá đi hi hi",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "text": "thầy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "text": "vui",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "text": "vui",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 814,
+        "full_text": "giảng viên nhiệt tình , chắt lọc nội dung cũng như mở rộng nhiều kiến thức về bộ môn .",
+        "values": [
+            {
+                "start": 0,
+                "end": 84,
+                "text": "giảng viên nhiệt tình , chắt lọc nội dung cũng như mở rộng nhiều kiến thức về bộ môn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 84,
+                "text": "giảng viên nhiệt tình , chắt lọc nội dung cũng như mở rộng nhiều kiến thức về bộ môn",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 51,
+                "end": 58,
+                "text": "mở rộng",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 51,
+                "end": 58,
+                "text": "mở rộng",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 815,
+        "full_text": "thầy giảng rất hay , rất tận tâm với sinh viên .",
+        "values": [
+            {
+                "start": 0,
+                "end": 46,
+                "text": "thầy giảng rất hay , rất tận tâm với sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "text": "thầy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "text": "hay",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "text": "tận tâm",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 816,
+        "full_text": "em mong có sự thống nhất giữa thầy cô trong quá trình giảng dạy môn này .",
+        "values": [
+            {
+                "start": 0,
+                "end": 71,
+                "text": "em mong có sự thống nhất giữa thầy cô trong quá trình giảng dạy môn này",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "text": "thống nhất",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 818,
+        "full_text": "giảng viên tận tâm , dạy tốt .",
+        "values": [
+            {
+                "start": 0,
+                "end": 28,
+                "text": "giảng viên tận tâm , dạy tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 28,
+                "text": "giảng viên tận tâm , dạy tốt",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 18,
+                "text": "tận tâm",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 18,
+                "text": "tận tâm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 28,
+                "text": "tốt",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 28,
+                "text": "tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 819,
+        "full_text": "sử dụng giờ học hiệu quả .",
+        "values": [
+            {
+                "start": 0,
+                "end": 24,
+                "text": "sử dụng giờ học hiệu quả",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 24,
+                "text": "sử dụng giờ học hiệu quả",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 15,
+                "text": "giờ học",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 15,
+                "text": "giờ học",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "text": "hiệu quả",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 820,
+        "full_text": "cách nói chưa lôi cuốn .",
+        "values": [
+            {
+                "start": 0,
+                "end": 22,
+                "text": "cách nói chưa lôi cuốn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 22,
+                "text": "cách nói chưa lôi cuốn",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 8,
+                "text": "cách nói",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "text": "chưa lôi cuốn",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "text": "chưa lôi cuốn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 821,
+        "full_text": "thầy không đảm bảo giờ lên lớp , nếu có nghỉ thầy cũng không thông báo trước rất vô lý .",
+        "values": [
+            {
+                "start": 19,
+                "end": 30,
+                "text": "giờ lên lớp",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "text": "không đảm bảo",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 81,
+                "end": 86,
+                "text": "vô lý",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 86,
+                "text": "thầy không đảm bảo giờ lên lớp , nếu có nghỉ thầy cũng không thông báo trước rất vô lý",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 822,
+        "full_text": "nhiệt tình truyền đạt kiến thức cho sinh viên .",
+        "values": [
+            {
+                "start": 0,
+                "end": 45,
+                "text": "nhiệt tình truyền đạt kiến thức cho sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 31,
+                "text": "kiến thức",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 823,
+        "full_text": "lý thuyết và thực hành nên đi đôi với nhau .",
+        "values": [
+            {
+                "start": 0,
+                "end": 42,
+                "text": "lý thuyết và thực hành nên đi đôi với nhau",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "lý thuyết",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "text": "thực hành",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 825,
+        "full_text": "thầy dạy quá tệ .",
+        "values": [
+            {
+                "start": 0,
+                "end": 15,
+                "text": "thầy dạy quá tệ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 15,
+                "text": "thầy dạy quá tệ",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "text": "thầy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "text": "tệ",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "text": "tệ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 826,
+        "full_text": "không có nhiều bài tập để làm thêm .",
+        "values": [
+            {
+                "start": 0,
+                "end": 34,
+                "text": "không có nhiều bài tập để làm thêm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "text": "bài tập",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 14,
+                "text": "không có nhiều",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 827,
+        "full_text": "phòng học quá sáng , màn chiếu bị mờ rất khó nhìn , xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy .",
+        "values": [
+            {
+                "start": 0,
+                "end": 145,
+                "text": "phòng học quá sáng , màn chiếu bị mờ rất khó nhìn , xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 145,
+                "text": "phòng học quá sáng , màn chiếu bị mờ rất khó nhìn , xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 145,
+                "text": "phòng học quá sáng , màn chiếu bị mờ rất khó nhìn , xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "phòng học",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "text": "màn chiếu",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "text": "màn chiếu",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 18,
+                "text": "quá sáng",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "text": "mờ",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "text": "mờ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "text": "mờ",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 41,
+                "end": 49,
+                "text": "khó nhìn",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "text": "mờ",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "text": "mờ",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "text": "mờ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 828,
+        "full_text": "giáo viên quá tốt .",
+        "values": [
+            {
+                "start": 0,
+                "end": 17,
+                "text": "giáo viên quá tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 17,
+                "text": "giáo viên quá tốt",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "giáo viên",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 14,
+                "end": 17,
+                "text": "tốt",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 14,
+                "end": 17,
+                "text": "tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 829,
+        "full_text": "cần cân bằng việc giảng dạy giữa sinh viên yếu và khá trở lên .",
+        "values": [
+            {
+                "start": 0,
+                "end": 61,
+                "text": "cần cân bằng việc giảng dạy giữa sinh viên yếu và khá trở lên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "text": "việc giảng dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 4,
+                "end": 12,
+                "text": "cân bằng",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 830,
+        "full_text": "nhiệt tình , giảng dễ hiểu , dễ thương .",
+        "values": [
+            {
+                "start": 0,
+                "end": 38,
+                "text": "nhiệt tình , giảng dễ hiểu , dễ thương",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 18,
+                "text": "giảng",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 19,
+                "end": 26,
+                "text": "dễ hiểu",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 38,
+                "text": "dễ thương",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 831,
+        "full_text": "giảng viên dạy rất dễ hiểu .",
+        "values": [
+            {
+                "start": 0,
+                "end": 26,
+                "text": "giảng viên dạy rất dễ hiểu",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 19,
+                "end": 26,
+                "text": "dễ hiểu",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 832,
+        "full_text": "tài liệu cung cấp thiếu .",
+        "values": [
+            {
+                "start": 0,
+                "end": 23,
+                "text": "tài liệu cung cấp thiếu",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 8,
+                "text": "tài liệu",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 18,
+                "end": 23,
+                "text": "thiếu",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 833,
+        "full_text": "thầy nên đánh giá kỹ hoạt động trên lớp của từng thành viên trong nhóm , ai đóng góp nhiều , nghiêm túc .",
+        "values": [
+            {
+                "start": 0,
+                "end": 70,
+                "text": "thầy nên đánh giá kỹ hoạt động trên lớp của từng thành viên trong nhóm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 73,
+                "end": 90,
+                "text": "ai đóng góp nhiều",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 93,
+                "end": 103,
+                "text": "nghiêm túc",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "text": "đánh giá",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "text": "hoạt động",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "text": "kỹ",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 93,
+                "end": 103,
+                "text": "nghiêm túc",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 834,
+        "full_text": "giáo viên lên lớp muộn , nghe điện thoại trong lúc lên lớp thường xuyên , nghỉ dạy không thông báo .",
+        "values": [
+            {
+                "start": 0,
+                "end": 22,
+                "text": "giáo viên lên lớp muộn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 22,
+                "text": "giáo viên lên lớp muộn",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 71,
+                "text": "nghe điện thoại trong lúc lên lớp thường xuyên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 74,
+                "end": 98,
+                "text": "nghỉ dạy không thông báo",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "text": "lên lớp",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 74,
+                "end": 82,
+                "text": "nghỉ dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "text": "muộn",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "text": "muộn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 59,
+                "end": 71,
+                "text": "thường xuyên",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 83,
+                "end": 98,
+                "text": "không thông báo",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 835,
+        "full_text": "đề nghị nên cho bài tập về nhà .",
+        "values": [
+            {
+                "start": 0,
+                "end": 30,
+                "text": "đề nghị nên cho bài tập về nhà",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "text": "bài tập về nhà",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "text": "nên",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 836,
+        "full_text": "mong thầy giảng giải và cho bài tập từng bước nhiều hơn .",
+        "values": [
+            {
+                "start": 0,
+                "end": 55,
+                "text": "mong thầy giảng giải và cho bài tập từng bước nhiều hơn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "text": "giảng giải",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "text": "bài tập",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 36,
+                "end": 45,
+                "text": "từng bước",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 46,
+                "end": 55,
+                "text": "nhiều hơn",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 837,
+        "full_text": "thầy cho đề thực hành cũng khá hay , nhưng mà thật thì em toàn code mấy bài đó trên notepad rồi nộp , không test gì cả , nhưng được cái là đồ án 10 thì điểm thực hành cũng 10 luôn .",
+        "values": [
+            {
+                "start": 0,
+                "end": 34,
+                "text": "thầy cho đề thực hành cũng khá hay",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 37,
+                "end": 99,
+                "text": "nhưng mà thật thì em toàn code mấy bài đó trên notepad rồi nộp",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 102,
+                "end": 118,
+                "text": "không test gì cả",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 121,
+                "end": 179,
+                "text": "nhưng được cái là đồ án 10 thì điểm thực hành cũng 10 luôn",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 121,
+                "end": 179,
+                "text": "nhưng được cái là đồ án 10 thì điểm thực hành cũng 10 luôn",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "text": "đề thực hành",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 152,
+                "end": 156,
+                "text": "điểm",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 27,
+                "end": 34,
+                "text": "khá hay",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 145,
+                "end": 147,
+                "text": "10",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 172,
+                "end": 174,
+                "text": "10",
+                "labels": [
+                    "Neutral"
+                ]
+            },
+            {
+                "start": 172,
+                "end": 174,
+                "text": "10",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 839,
+        "full_text": "chỉ dạy nhiệt tình .",
+        "values": [
+            {
+                "start": 0,
+                "end": 18,
+                "text": "chỉ dạy nhiệt tình",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 7,
+                "text": "chỉ dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 18,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 840,
+        "full_text": "giáo viên truyền đạt những vẫn đê sâu .",
+        "values": [
+            {
+                "start": 0,
+                "end": 37,
+                "text": "giáo viên truyền đạt những vẫn đê sâu",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "giáo viên",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 27,
+                "end": 33,
+                "text": "vẫn đê",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 34,
+                "end": 37,
+                "text": "sâu",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 841,
+        "full_text": "chưa cung cấp cách nhìn sâu hơn về môn học vào thực tế hiện nay , chỉ mới mang tính trừu tượng .",
+        "values": [
+            {
+                "start": 0,
+                "end": 94,
+                "text": "chưa cung cấp cách nhìn sâu hơn về môn học vào thực tế hiện nay , chỉ mới mang tính trừu tượng",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 35,
+                "end": 42,
+                "text": "môn học",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 84,
+                "end": 94,
+                "text": "trừu tượng",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 842,
+        "full_text": "giảng viên dạy dễ hiểu , và đầy đủ nội dung .",
+        "values": [
+            {
+                "start": 0,
+                "end": 43,
+                "text": "giảng viên dạy dễ hiểu , và đầy đủ nội dung",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "text": "dễ hiểu",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "text": "đầy đủ",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 843,
+        "full_text": "không hướng dẫn kỹ .",
+        "values": [
+            {
+                "start": 0,
+                "end": 18,
+                "text": "không hướng dẫn kỹ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 18,
+                "text": "không hướng dẫn kỹ",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 6,
+                "end": 15,
+                "text": "hướng dẫn",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 5,
+                "text": "không",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "text": "kỹ",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "text": "kỹ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 845,
+        "full_text": "thầy cho chép bài ít thôi , tập trung sửa bài được không ạ .",
+        "values": [
+            {
+                "start": 0,
+                "end": 59,
+                "text": "thầy cho chép bài ít thôi , tập trung sửa bài được không ạ ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "text": "chép bài",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 38,
+                "end": 45,
+                "text": "sửa bài",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "text": "ít",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 846,
+        "full_text": "khả năng truyền đạt chưa đi vào lòng người cho lắm !",
+        "values": [
+            {
+                "start": 0,
+                "end": 50,
+                "text": "khả năng truyền đạt chưa đi vào lòng người cho lắm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 19,
+                "text": "truyền đạt",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 20,
+                "end": 42,
+                "text": "chưa đi vào lòng người",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 847,
+        "full_text": "thầy rất nhiệt tình , dạy rất kỹ , thầy cũng rất vui tính .",
+        "values": [
+            {
+                "start": 0,
+                "end": 57,
+                "text": "thầy rất nhiệt tình , dạy rất kỹ , thầy cũng rất vui tính",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 19,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 30,
+                "end": 32,
+                "text": "kỹ",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "text": "vui tính",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 848,
+        "full_text": "giảng viên nhiệt tình , vui vẻ , giờ học vui .",
+        "values": [
+            {
+                "start": 0,
+                "end": 44,
+                "text": "giảng viên nhiệt tình , vui vẻ , giờ học vui",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 33,
+                "end": 40,
+                "text": "giờ học",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "text": "vui vẻ",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 41,
+                "end": 44,
+                "text": "vui",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 849,
+        "full_text": "cô dạy không hấp dẫn , tuy hay nhưng không kích thích được sinh viên hoạt động .",
+        "values": [
+            {
+                "start": 0,
+                "end": 78,
+                "text": "cô dạy không hấp dẫn , tuy hay nhưng không kích thích được sinh viên hoạt động",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 3,
+                "end": 6,
+                "text": "dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "text": "không hấp dẫn",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 37,
+                "end": 53,
+                "text": "không kích thích",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 851,
+        "full_text": "kiến thức môn học mang lại tương đối đầy đủ và thực tế giúp sinh viên nắm rõ phương pháp và cách thức để học tập các môn chuyên ngành sau này .",
+        "values": [
+            {
+                "start": 0,
+                "end": 141,
+                "text": "kiến thức môn học mang lại tương đối đầy đủ và thực tế giúp sinh viên nắm rõ phương pháp và cách thức để học tập các môn chuyên ngành sau này",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 17,
+                "text": "kiến thức môn học",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "text": "đầy đủ",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 47,
+                "end": 54,
+                "text": "thực tế",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 852,
+        "full_text": "cách giảng dạy , tạo không khí sôi nổi trong lớp .",
+        "values": [
+            {
+                "start": 0,
+                "end": 48,
+                "text": "cách giảng dạy , tạo không khí sôi nổi trong lớp",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 14,
+                "text": "cách giảng dạy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "text": "sôi nổi",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 853,
+        "full_text": "trình bày bài giảng một cách khoa học và hợp lý .",
+        "values": [
+            {
+                "start": 0,
+                "end": 47,
+                "text": "trình bày bài giảng một cách khoa học và hợp lý",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "text": "bài giảng",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "text": "khoa học",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 41,
+                "end": 47,
+                "text": "hợp lý",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 854,
+        "full_text": "tuy nhiên , giờ trên lớp thầy chưa thực sự sử dụng hiệu quả lắm khi thiếu tương tác với sinh viên trong lớp để nắm tình hình học viên của mình .",
+        "values": [
+            {
+                "start": 0,
+                "end": 142,
+                "text": "tuy nhiên , giờ trên lớp thầy chưa thực sự sử dụng hiệu quả lắm khi thiếu tương tác với sinh viên trong lớp để nắm tình hình học viên của mình",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "text": "giờ trên lớp",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 51,
+                "end": 59,
+                "text": "hiệu quả",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 68,
+                "end": 83,
+                "text": "thiếu tương tác",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "text": "chưa",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 855,
+        "full_text": "thầy dễ thương , nhiệt tình , dạy dễ hiểu .",
+        "values": [
+            {
+                "start": 0,
+                "end": 41,
+                "text": "thầy dễ thương , nhiệt tình , dạy dễ hiểu",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "text": "thầy",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 14,
+                "text": "dễ thương",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 30,
+                "end": 41,
+                "text": "dạy dễ hiểu",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 856,
+        "full_text": "nên cho thời gian học nhiều hơn 2 tiết .",
+        "values": [
+            {
+                "start": 0,
+                "end": 38,
+                "text": "nên cho thời gian học nhiều hơn 2 tiết",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 21,
+                "text": "thời gian học",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 31,
+                "text": "nhiều hơn",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 857,
+        "full_text": "cô vui tính , hiền , khá nhiệt tình và gần gũi với sinh viên colonsmilesmile .",
+        "values": [
+            {
+                "start": 0,
+                "end": 76,
+                "text": "cô vui tính , hiền , khá nhiệt tình và gần gũi với sinh viên colonsmilesmile",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 2,
+                "text": "cô",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 3,
+                "end": 11,
+                "text": "vui tính",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 3,
+                "end": 11,
+                "text": "vui tính",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "text": "hiền",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 35,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 39,
+                "end": 46,
+                "text": "gần gũi",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 858,
+        "full_text": "những gì quan trọng cần nắm bắt và tìm hiểu thêm .",
+        "values": [
+            {
+                "start": 0,
+                "end": 48,
+                "text": "những gì quan trọng cần nắm bắt và tìm hiểu thêm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 19,
+                "text": "quan trọng",
+                "labels": [
+                    "Course information"
+                ]
+            },
+            {
+                "start": 20,
+                "end": 31,
+                "text": "cần nắm bắt",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 859,
+        "full_text": "cá nhân em thấy đôi khi nhìn thầy em cảm thấy hơi sợ sợ .",
+        "values": [
+            {
+                "start": 0,
+                "end": 55,
+                "text": "cá nhân em thấy đôi khi nhìn thầy em cảm thấy hơi sợ sợ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "text": "thấy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 50,
+                "end": 55,
+                "text": "sợ sợ",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 860,
+        "full_text": "rèn luyện được kỹ năng giao tiếp , mạnh dạng đứng trước lớp nói tiếng anh .",
+        "values": [
+            {
+                "start": 0,
+                "end": 73,
+                "text": "rèn luyện được kỹ năng giao tiếp , mạnh dạng đứng trước lớp nói tiếng anh",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 32,
+                "text": "kỹ năng giao tiếp",
+                "labels": [
+                    "Learning environment"
+                ]
+            },
+            {
+                "start": 35,
+                "end": 44,
+                "text": "mạnh dạng",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 861,
+        "full_text": "thầy hướng dẫn thực hành hay .",
+        "values": [
+            {
+                "start": 0,
+                "end": 28,
+                "text": "thầy hướng dẫn thực hành hay",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 24,
+                "text": "hướng dẫn thực hành",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 28,
+                "text": "hay",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 862,
+        "full_text": "cập nhật kiến thức thực tế .",
+        "values": [
+            {
+                "start": 0,
+                "end": 26,
+                "text": "cập nhật kiến thức thực tế",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "text": "kiến thức",
+                "labels": [
+                    "Course information"
+                ]
+            },
+            {
+                "start": 19,
+                "end": 26,
+                "text": "thực tế",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 863,
+        "full_text": "giảng viên nhiệt tình , luôn luôn đến lớp đúng giờ .",
+        "values": [
+            {
+                "start": 0,
+                "end": 50,
+                "text": "giảng viên nhiệt tình , luôn luôn đến lớp đúng giờ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 50,
+                "text": "giảng viên nhiệt tình , luôn luôn đến lớp đúng giờ",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 10,
+                "text": "giảng viên",
+                "labels": [
+                    "Organization and management"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "nhiệt tình",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 42,
+                "end": 50,
+                "text": "đúng giờ",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 42,
+                "end": 50,
+                "text": "đúng giờ",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 864,
+        "full_text": "chỉ có vấn đề thầy dạy hơi nhanh .",
+        "values": [
+            {
+                "start": 0,
+                "end": 32,
+                "text": "chỉ có vấn đề thầy dạy hơi nhanh",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 19,
+                "end": 22,
+                "text": "dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "text": "nhanh",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 865,
+        "full_text": "giảng viên truyền đạt còn chưa tốt .",
+        "values": [
+            {
+                "start": 0,
+                "end": 34,
+                "text": "giảng viên truyền đạt còn chưa tốt",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "truyền đạt",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "text": "chưa tốt",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 866,
+        "full_text": "tình trạng nghỉ không thông báo cho sinh viên để sinh viên đứng đợi giảng viên gần hết giờ rồi ra về nhiều lần .",
+        "values": [
+            {
+                "start": 0,
+                "end": 110,
+                "text": "tình trạng nghỉ không thông báo cho sinh viên để sinh viên đứng đợi giảng viên gần hết giờ rồi ra về nhiều lần",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 31,
+                "text": "nghỉ không thông báo",
+                "labels": [
+                    "Organization and management"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "text": "không thông báo",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 867,
+        "full_text": "cô giảng dạy chi tiết trong quá trình học .",
+        "values": [
+            {
+                "start": 0,
+                "end": 41,
+                "text": "cô giảng dạy chi tiết trong quá trình học",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 3,
+                "end": 12,
+                "text": "giảng dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "text": "chi tiết",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 868,
+        "full_text": "kiến thức chưa có trọng tâm .",
+        "values": [
+            {
+                "start": 0,
+                "end": 27,
+                "text": "kiến thức chưa có trọng tâm",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "text": "kiến thức",
+                "labels": [
+                    "Course information"
+                ]
+            },
+            {
+                "start": 10,
+                "end": 27,
+                "text": "chưa có trọng tâm",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 869,
+        "full_text": "tiết học vui vẻ , thoải mái .",
+        "values": [
+            {
+                "start": 0,
+                "end": 27,
+                "text": "tiết học vui vẻ , thoải mái",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 8,
+                "text": "tiết học",
+                "labels": [
+                    "Learning environment"
+                ]
+            },
+            {
+                "start": 9,
+                "end": 15,
+                "text": "vui vẻ",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 18,
+                "end": 27,
+                "text": "thoải mái",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 870,
+        "full_text": "chưa tương tác nhiều với sinh viên .",
+        "values": [
+            {
+                "start": 0,
+                "end": 34,
+                "text": "chưa tương tác nhiều với sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 14,
+                "text": "tương tác",
+                "labels": [
+                    "Organization and management"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "text": "chưa",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 20,
+                "text": "nhiều",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 872,
+        "full_text": "yêu cầu quá cao đối với một sinh viên , mặc dù chỉ là một đồ án nhưng không nhất thiết phải quá chi tiết về mọi khía cạnh cụ thể .",
+        "values": [
+            {
+                "start": 0,
+                "end": 128,
+                "text": "yêu cầu quá cao đối với một sinh viên , mặc dù chỉ là một đồ án nhưng không nhất thiết phải quá chi tiết về mọi khía cạnh cụ thể",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 0,
+                "end": 7,
+                "text": "yêu cầu",
+                "labels": [
+                    "Workload"
+                ]
+            },
+            {
+                "start": 58,
+                "end": 63,
+                "text": "đồ án",
+                "labels": [
+                    "Workload"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 15,
+                "text": "quá cao",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 92,
+                "end": 104,
+                "text": "quá chi tiết",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 873,
+        "full_text": "cô hướng dẫn phương pháp học tập hiệu quả .",
+        "values": [
+            {
+                "start": 0,
+                "end": 41,
+                "text": "cô hướng dẫn phương pháp học tập hiệu quả",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 3,
+                "end": 12,
+                "text": "hướng dẫn",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 33,
+                "end": 41,
+                "text": "hiệu quả",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 874,
+        "full_text": "thầy cần hoạt động trao đổi nhiều hơn với sinh viên .",
+        "values": [
+            {
+                "start": 0,
+                "end": 51,
+                "text": "thầy cần hoạt động trao đổi nhiều hơn với sinh viên",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 19,
+                "end": 27,
+                "text": "trao đổi",
+                "labels": [
+                    "Support from lecturers"
+                ]
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "text": "nhiều hơn",
+                "labels": [
+                    "Neutral"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 875,
+        "full_text": "thầy dạy rất dễ hiểu , đúng trọng tâm bài học .",
+        "values": [
+            {
+                "start": 0,
+                "end": 45,
+                "text": "thầy dạy rất dễ hiểu , đúng trọng tâm bài học",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "text": "dạy",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "text": "dễ hiểu",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "text": "đúng trọng tâm",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 876,
+        "full_text": "cho quá nhiều bài tập , chỉ nên cho bài tập ví dụ điển hình .",
+        "values": [
+            {
+                "start": 0,
+                "end": 59,
+                "text": "cho quá nhiều bài tập , chỉ nên cho bài tập ví dụ điển hình",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 14,
+                "end": 21,
+                "text": "bài tập",
+                "labels": [
+                    "Workload"
+                ]
+            },
+            {
+                "start": 4,
+                "end": 13,
+                "text": "quá nhiều",
+                "labels": [
+                    "Negative"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 877,
+        "full_text": "giúp em hiểu ra được nhiều cái hay .",
+        "values": [
+            {
+                "start": 0,
+                "end": 34,
+                "text": "giúp em hiểu ra được nhiều cái hay",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "text": "hiểu",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 34,
+                "text": "hay",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 878,
+        "full_text": "thầy giảng rất hay , dễ hiểu .",
+        "values": [
+            {
+                "start": 0,
+                "end": 28,
+                "text": "thầy giảng rất hay , dễ hiểu",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "text": "giảng",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "text": "hay",
+                "labels": [
+                    "Positive"
+                ]
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "text": "dễ hiểu",
+                "labels": [
+                    "Positive"
+                ]
+            }
+        ]
+    },
+    {
+        "annotation_id": 879,
+        "full_text": "giảng viên giảng bài hơi nhàm chán , gây cảm giác buồn ngủ , có nhiều chỗ hơi lan man .",
+        "values": [
+            {
+                "start": 0,
+                "end": 85,
+                "text": "giảng viên giảng bài hơi nhàm chán , gây cảm giác buồn ngủ , có nhiều chỗ hơi lan man",
+                "labels": [
+                    "Sentence Component"
+                ]
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "text": "giảng bài",
+                "labels": [
+                    "Teaching quality"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 34,
+                "text": "nhàm chán",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 50,
+                "end": 58,
+                "text": "buồn ngủ",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 78,
+                "end": 85,
+                "text": "lan man",
+                "labels": [
+                    "Negative"
+                ]
+            },
+            {
+                "start": 78,
+                "end": 85,
+                "text": "lan man",
+                "labels": [
+                    "Sentence Component"
+                ]
+            }
+        ]
+    }
+]
