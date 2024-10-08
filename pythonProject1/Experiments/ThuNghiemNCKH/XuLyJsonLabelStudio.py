@@ -1,7 +1,8 @@
 import json
 import csv
 
-with open('sang-5-10-2024.json', 'r', encoding='utf-8') as f:
+filename = "hung-8-10-2024"
+with open('MrDuy_Absa_Labeling/Json/Unprocess/' + filename + '.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
@@ -32,7 +33,7 @@ for item in data:
         )
 
 # Write the JSON data to a file
-with open('MrDuy_Absa_Labeling/Json/Process/outputSang.json', 'w', encoding='utf-8') as outfile:
+with open('MrDuy_Absa_Labeling/Json/Process/output' + filename + '.json', 'w', encoding='utf-8') as outfile:
     json.dump(annotation_data, outfile, ensure_ascii=False, indent=4)
 
 print("JSON data has been written to outputDuy.json")
@@ -41,7 +42,7 @@ data_list = []
 
 aspects = [
     'Teaching quality', 'Course information', 'Learning environment',
-    'Support from lecturers', 'Organization and management', 'Workload', 'General review'
+    'Support from lecturers', 'Organization and management', 'Workload', 'General review',  'Test and evaluation'
 ]
 
 sentiments = [
@@ -87,7 +88,7 @@ for annotation in annotation_data:
     print("-------------end--------------")
     data_list.append(tmp_list)
 
-with open('MrDuy_Absa_Labeling/Csv/testConvertJsonSang.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open('MrDuy_Absa_Labeling/Csv/Convert' + filename + '.csv', 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(headers)
     for row in data_list:

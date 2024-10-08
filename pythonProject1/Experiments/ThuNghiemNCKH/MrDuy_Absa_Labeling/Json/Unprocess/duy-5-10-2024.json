@@ -1,0 +1,2249 @@
+[
+    {
+        "id": 24452,
+        "annotations": [
+            {
+                "id": 2,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 64,
+                            "text": "giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "uP255yXnUj",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 10,
+                            "text": "giảng viên",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "8QxBbsgnr3",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 17,
+                            "end": 26,
+                            "text": "hướng dẫn",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "_rYLoD7X7W",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 11,
+                            "end": 26,
+                            "text": "không hướng dẫn",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "yrqWM5qEGG",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 67,
+                            "end": 111,
+                            "text": "không cung cấp tài liệu để sinh viên học tập",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "GcPm8i9S-m",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 73,
+                            "end": 90,
+                            "text": "cung cấp tài liệu",
+                            "labels": [
+                                "Course information"
+                            ]
+                        },
+                        "id": "kUzFz0Zo3p",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 67,
+                            "end": 90,
+                            "text": "không cung cấp tài liệu",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "7qT09yDZ9b",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T07:20:52.193356Z",
+                "updated_at": "2024-10-05T18:48:56.146133Z",
+                "draft_created_at": "2024-10-05T07:15:16.918027Z",
+                "lead_time": 2101.76,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "018afff3-b318-4904-a535-575636027a1c",
+                "import_id": null,
+                "last_action": null,
+                "task": 24452,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "giảng viên không hướng dẫn sinh viên thực hiện các bài thực hành , không cung cấp tài liệu để sinh viên học tập ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T18:48:56.234183Z",
+        "inner_id": 1600,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24453,
+        "annotations": [
+            {
+                "id": 3,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 62,
+                            "text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "XrnF8TWsbT",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 9,
+                            "text": "giảng dạy",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "PsK1GTKzBN",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 10,
+                            "end": 19,
+                            "text": "cứng nhắc",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "lMLYF7Sn63",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 22,
+                            "end": 28,
+                            "text": "áp đặp",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "yb4fw-W0nH",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 31,
+                            "end": 44,
+                            "text": "không thu hút",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "NDkbbJxgKx",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 47,
+                            "end": 62,
+                            "text": "gò bó sinh viên",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "unWbHon7GH",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T07:35:21.686072Z",
+                "updated_at": "2024-10-05T18:49:15.853301Z",
+                "draft_created_at": "2024-10-05T07:24:31.585793Z",
+                "lead_time": 205.48600000000002,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e9b00bdb-d8ff-4413-bdcb-eedbfb391c62",
+                "import_id": null,
+                "last_action": null,
+                "task": 24453,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T18:49:15.931398Z",
+        "inner_id": 1601,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24454,
+        "annotations": [
+            {
+                "id": 4,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "giảng dạy hay",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "ynsx8LUUKa",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 9,
+                            "text": "giảng dạy",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "K440va4924",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 10,
+                            "end": 13,
+                            "text": "hay",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "6YWWRb3m7q",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 16,
+                            "end": 75,
+                            "text": "đưa ra một số ví dụ thực tế để tăng sinh động cho tiết dạy",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "k0qL6mNFnY",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 30,
+                            "end": 43,
+                            "text": "ví dụ thực tế",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "Zd_y2ePoJb",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 52,
+                            "end": 62,
+                            "text": "sinh động",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "CMe2EFfZZr",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T07:40:54.544007Z",
+                "updated_at": "2024-10-05T18:50:35.701320Z",
+                "draft_created_at": "2024-10-05T07:39:09.887880Z",
+                "lead_time": 195.877,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "96704271-0c37-43a8-97e0-20bcceaffb0c",
+                "import_id": null,
+                "last_action": null,
+                "task": 24454,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "giảng dạy hay , đưa ra một số ví dụ thực tế để tăng sinh  động cho tiết dạy ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T18:50:35.795346Z",
+        "inner_id": 1602,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24455,
+        "annotations": [
+            {
+                "id": 5,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 39,
+                            "text": "cho bài tập nâng cao khả năng tiếng anh",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "1CzDZHCVbY",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 4,
+                            "end": 11,
+                            "text": "bài tập",
+                            "labels": [
+                                "Workload"
+                            ]
+                        },
+                        "id": "OmbR5CfCux",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 12,
+                            "end": 20,
+                            "text": "nâng cao",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "hwVOVvA-ia",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T07:47:29.562713Z",
+                "updated_at": "2024-10-05T08:18:34.081168Z",
+                "draft_created_at": "2024-10-05T07:43:49.341989Z",
+                "lead_time": 457.57,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "54453dca-361a-462e-8b29-7c8d4fcd7f00",
+                "import_id": null,
+                "last_action": null,
+                "task": 24455,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "cho bài tập nâng cao khả năng tiếng anh ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T08:18:34.298631Z",
+        "inner_id": 1603,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24456,
+        "annotations": [
+            {
+                "id": 6,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 29,
+                            "text": "em thấy học vậy cũng được rồi",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "Zp5kBw5HBD",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 29,
+                            "text": "em thấy học vậy cũng được rồi",
+                            "labels": [
+                                "General review"
+                            ]
+                        },
+                        "id": "4iQy711Vfc",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 21,
+                            "end": 29,
+                            "text": "được rồi",
+                            "labels": [
+                                "Neutral"
+                            ]
+                        },
+                        "id": "IjmGozTm3G",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:01:12.803052Z",
+                "updated_at": "2024-10-05T18:51:41.259984Z",
+                "draft_created_at": "2024-10-05T07:47:47.131641Z",
+                "lead_time": 873.1120000000001,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "7c9e79fd-262d-44a7-94d0-47a38437c73f",
+                "import_id": null,
+                "last_action": null,
+                "task": 24456,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "em thấy học vậy cũng được rồi ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T18:51:41.343194Z",
+        "inner_id": 1604,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24457,
+        "annotations": [
+            {
+                "id": 7,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 49,
+                            "text": "đề cương môn học chưa được cập nhật cho sinh viên",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "Wrx4wlFrEg",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 16,
+                            "text": "đề cương môn học",
+                            "labels": [
+                                "Course information"
+                            ]
+                        },
+                        "id": "LJqhTT19A2",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 17,
+                            "end": 35,
+                            "text": "chưa được cập nhật",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "_nfRfgZCs2",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:06:37.706519Z",
+                "updated_at": "2024-10-05T08:06:37.706519Z",
+                "draft_created_at": "2024-10-05T08:04:22.310916Z",
+                "lead_time": 321.677,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ed9cb425-4706-46dc-8421-bc8135bb6213",
+                "import_id": null,
+                "last_action": null,
+                "task": 24457,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "đề cương môn học chưa được cập nhật cho sinh viên ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T08:06:37.822419Z",
+        "inner_id": 1605,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24458,
+        "annotations": [
+            {
+                "id": 8,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 84,
+                            "text": "thầy cần tập trung thật nhiều vào phần trọng tâm trọng điểm mà môn học đã được đề ra",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "mUQJmB3VJW",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 34,
+                            "end": 59,
+                            "text": "phần trọng tâm trọng điểm",
+                            "labels": [
+                                "Organization and management"
+                            ]
+                        },
+                        "id": "ta26MGRGvv",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 9,
+                            "end": 18,
+                            "text": "tập trung",
+                            "labels": [
+                                "Neutral"
+                            ]
+                        },
+                        "id": "gBXX91Hgi9",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:15:49.113941Z",
+                "updated_at": "2024-10-05T08:15:49.113941Z",
+                "draft_created_at": "2024-10-05T08:14:53.589046Z",
+                "lead_time": 547.469,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "8c31018e-ad62-48a6-a39f-21d2d3c04e38",
+                "import_id": null,
+                "last_action": null,
+                "task": 24458,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "thầy cần tập trung thật nhiều vào phần trọng tâm trọng điểm mà môn học đã được đề ra ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T08:15:49.258428Z",
+        "inner_id": 1606,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24459,
+        "annotations": [
+            {
+                "id": 9,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 37,
+                            "text": "giảng viên cho bài tập nhiều , đầy đủ",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "0tPt0BTC7d",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 15,
+                            "end": 22,
+                            "text": "bài tập",
+                            "labels": [
+                                "Workload"
+                            ]
+                        },
+                        "id": "Kx-9fUmd-z",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 23,
+                            "end": 28,
+                            "text": "nhiều",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "_7qWLxr07x",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 31,
+                            "end": 37,
+                            "text": "đầy đủ",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "aY-t_5jPHX",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:21:13.675411Z",
+                "updated_at": "2024-10-05T08:21:13.675411Z",
+                "draft_created_at": "2024-10-05T08:16:37.147623Z",
+                "lead_time": 182.766,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "53aee6a7-9692-40b8-a231-741eb8b73c95",
+                "import_id": null,
+                "last_action": null,
+                "task": 24459,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "giảng viên cho bài tập nhiều , đầy đủ ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T08:21:13.747329Z",
+        "inner_id": 1607,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24460,
+        "annotations": [
+            {
+                "id": 10,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 60,
+                            "text": "bài tập giảng viên cho tại lớp đáp ứng nhu cầu của sinh viên",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "encnu5Sj4-",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 7,
+                            "text": "bài tập",
+                            "labels": [
+                                "Workload"
+                            ]
+                        },
+                        "id": "vN87n0Siv6",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 31,
+                            "end": 46,
+                            "text": "đáp ứng nhu cầu",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "VwmGl7CzVs",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:23:02.523290Z",
+                "updated_at": "2024-10-05T08:23:02.523290Z",
+                "draft_created_at": "2024-10-05T08:21:56.321483Z",
+                "lead_time": 106.361,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "9b379273-ba15-4eba-9d55-c4f11d2226b9",
+                "import_id": null,
+                "last_action": null,
+                "task": 24460,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "bài tập giảng viên cho tại lớp đáp ứng nhu cầu của sinh viên ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T08:23:02.637145Z",
+        "inner_id": 1608,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24461,
+        "annotations": [
+            {
+                "id": 11,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 17,
+                            "text": "thầy dạy có tâm ạ",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "UTy19GaksK",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 4,
+                            "text": "thầy",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "dvIWiN2U3U",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 15,
+                            "text": "dạy có tâm",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "YVPfSbFrl9",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:24:17.130376Z",
+                "updated_at": "2024-10-05T08:24:17.130376Z",
+                "draft_created_at": "2024-10-05T08:23:32.985640Z",
+                "lead_time": 71.968,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a093e7ee-5764-45dd-908a-d9bae51b1cbe",
+                "import_id": null,
+                "last_action": null,
+                "task": 24461,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "thầy dạy có tâm ạ ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.574521Z",
+        "updated_at": "2024-10-05T08:24:17.252045Z",
+        "inner_id": 1609,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24462,
+        "annotations": [
+            {
+                "id": 12,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 25,
+                            "text": "kiến thức và cách dạy hay",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "GRvz_72flx",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 9,
+                            "text": "kiến thức",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "VRubK33_f2",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 13,
+                            "end": 21,
+                            "text": "cách dạy",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "sy3vejezt8",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 22,
+                            "end": 25,
+                            "text": "hay",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "1oiEy7-Mqo",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:25:40.323736Z",
+                "updated_at": "2024-10-05T08:25:40.323736Z",
+                "draft_created_at": "2024-10-05T08:24:47.916834Z",
+                "lead_time": 65.969,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "08190157-9050-448d-bda6-c819bebcfc09",
+                "import_id": null,
+                "last_action": null,
+                "task": 24462,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "kiến thức và cách dạy hay ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:25:40.469482Z",
+        "inner_id": 1610,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24463,
+        "annotations": [
+            {
+                "id": 13,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 12,
+                            "text": "thầy rất vui",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "Rz5yY15o2Z",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 4,
+                            "text": "thầy",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "xXiWWW0OLF",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 9,
+                            "end": 12,
+                            "text": "vui",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "FusOAJ0o8H",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:31:02.309544Z",
+                "updated_at": "2024-10-05T08:31:14.448615Z",
+                "draft_created_at": "2024-10-05T08:28:16.018365Z",
+                "lead_time": 330.366,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "71ae5dac-ebac-41c1-90fa-db139a54efdf",
+                "import_id": null,
+                "last_action": null,
+                "task": 24463,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "thầy rất vui ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:31:14.605639Z",
+        "inner_id": 1611,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24464,
+        "annotations": [
+            {
+                "id": 14,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 21,
+                            "text": "gần gủi với sinh viên",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "Y6M2wh65TM",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 21,
+                            "text": "gần gủi với sinh viên",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "nuX6aW3Fj5",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 7,
+                            "text": "gần gủi",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "fwgJ-eHtRv",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:33:23.703951Z",
+                "updated_at": "2024-10-05T08:33:23.703951Z",
+                "draft_created_at": "2024-10-05T08:33:03.555075Z",
+                "lead_time": 78.272,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5b69dbfd-aa83-4d2c-bd46-22f372da57d3",
+                "import_id": null,
+                "last_action": null,
+                "task": 24464,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "gần gủi với sinh viên ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:33:23.832253Z",
+        "inner_id": 1612,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24465,
+        "annotations": [
+            {
+                "id": 15,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 31,
+                            "text": "thầy dạy nhiệt tình và đúng giờ",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "0obX_Og74r",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 8,
+                            "text": "thầy dạy",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "mFJaecpYaF",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 8,
+                            "text": "thầy dạy",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "mFJaecpYaF",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 9,
+                            "end": 19,
+                            "text": "nhiệt tình",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "-wNtUPqmaM",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 23,
+                            "end": 31,
+                            "text": "đúng giờ",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "degIkln2Ml",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:36:44.993669Z",
+                "updated_at": "2024-10-05T08:37:53.365500Z",
+                "draft_created_at": "2024-10-05T08:33:49.038550Z",
+                "lead_time": 228.51399999999998,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4640a9b1-228c-4404-b0ce-3087f9f24af9",
+                "import_id": null,
+                "last_action": null,
+                "task": 24465,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "thầy dạy nhiệt tình và đúng giờ ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:37:53.558898Z",
+        "inner_id": 1613,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24466,
+        "annotations": [
+            {
+                "id": 16,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 82,
+                            "text": "thường xuyên cho bài tập về nhà giúp sinh viên nắm rõ được kiến thức vững chắc hơn",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "O8uHL4ckZI",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 17,
+                            "end": 31,
+                            "text": "bài tập về nhà",
+                            "labels": [
+                                "Workload"
+                            ]
+                        },
+                        "id": "yNXfs1SnsL",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 12,
+                            "text": "thường xuyên",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "JnnkQjTKnf",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 69,
+                            "end": 78,
+                            "text": "vững chắc",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "bRJ8SNMTcA",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:41:26.517767Z",
+                "updated_at": "2024-10-05T08:41:26.517767Z",
+                "draft_created_at": "2024-10-05T08:38:47.102229Z",
+                "lead_time": 209.567,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "edffdc9d-5034-4aff-bc1c-eff60373dc32",
+                "import_id": null,
+                "last_action": null,
+                "task": 24466,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "thường xuyên cho bài tập về nhà giúp sinh viên nắm rõ được kiến thức vững chắc hơn ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:41:26.566149Z",
+        "inner_id": 1614,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24467,
+        "annotations": [
+            {
+                "id": 17,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 12,
+                            "text": "khá tận tình",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "Ec02-QZN-H",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 12,
+                            "text": "khá tận tình",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "eJnbBTvUMs",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 4,
+                            "end": 12,
+                            "text": "tận tình",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "0GqGCdYvM7",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:43:56.875392Z",
+                "updated_at": "2024-10-05T08:43:56.875392Z",
+                "draft_created_at": "2024-10-05T08:41:53.312784Z",
+                "lead_time": 142.938,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "725cfc26-caff-459e-9165-6a22797feb8d",
+                "import_id": null,
+                "last_action": null,
+                "task": 24467,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "khá tận tình ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:43:56.996580Z",
+        "inner_id": 1615,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24468,
+        "annotations": [
+            {
+                "id": 18,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 44,
+                            "text": "chọn thời gian báo cáo phù hợp cho sinh viên",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "0MKPr03MdB",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 22,
+                            "text": "thời gian báo cáo",
+                            "labels": [
+                                "Organization and management"
+                            ]
+                        },
+                        "id": "4MHjWkqi5_",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 23,
+                            "end": 30,
+                            "text": "phù hợp",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "puPHWtm-ia",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:45:32.020162Z",
+                "updated_at": "2024-10-05T08:45:32.020162Z",
+                "draft_created_at": "2024-10-05T08:44:53.356812Z",
+                "lead_time": 92.44,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "97e3a1a4-0294-4007-b311-21a32c98f6e3",
+                "import_id": null,
+                "last_action": null,
+                "task": 24468,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "chọn thời gian báo cáo phù hợp cho sinh viên ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:45:32.134579Z",
+        "inner_id": 1616,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24469,
+        "annotations": [
+            {
+                "id": 19,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 32,
+                            "text": "giảng viên nhiệt tình , đúng giờ",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "P-vFOWzj_E",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 10,
+                            "text": "giảng viên",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "jhe966GBfD",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 11,
+                            "end": 21,
+                            "text": "nhiệt tình",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "xeZVZO7x0P",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 24,
+                            "end": 32,
+                            "text": "đúng giờ",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "zpN9KAHh8A",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:46:44.904837Z",
+                "updated_at": "2024-10-05T08:46:44.904837Z",
+                "draft_created_at": "2024-10-05T08:45:52.781352Z",
+                "lead_time": 64.097,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "fa0294b3-713c-44f7-a8e1-89ebd1b35cc7",
+                "import_id": null,
+                "last_action": null,
+                "task": 24469,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "giảng viên nhiệt tình , đúng giờ ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:46:45.033850Z",
+        "inner_id": 1617,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24470,
+        "annotations": [
+            {
+                "id": 20,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 31,
+                            "text": "giảng viên tận tâm , nhiệt tình",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "_cNFPg0pKe",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 10,
+                            "text": "giảng viên",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "jtPMgOnJHO",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 11,
+                            "end": 18,
+                            "text": "tận tâm",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "N3-jM3iXDq",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 21,
+                            "end": 31,
+                            "text": "nhiệt tình",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "V9Z9YVzaJm",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 34,
+                            "end": 132,
+                            "text": "cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "20sGuMOoCK",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 38,
+                            "end": 71,
+                            "text": "sinh viên thuyết trình các chủ đề",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "7ZG35HXg98",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 99,
+                            "end": 132,
+                            "text": "tăng cường khả năng làm việc nhóm",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "mSwub6_d9b",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T08:54:12.016697Z",
+                "updated_at": "2024-10-05T08:54:12.016697Z",
+                "draft_created_at": "2024-10-05T08:47:15.481639Z",
+                "lead_time": 444.436,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "36debc86-eb5c-4533-aa55-fd61d85c2f9e",
+                "import_id": null,
+                "last_action": null,
+                "task": 24470,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "giảng viên tận tâm , nhiệt tình , cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T08:54:12.148140Z",
+        "inner_id": 1618,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24471,
+        "annotations": [
+            {
+                "id": 21,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 78,
+                            "text": "dạy kiến thức khá là cao cấp , vượt hơn khả năng hiểu biết của đa số sinh viên",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "u0t05p8p0M",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "dạy kiến thức",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "dFZbG8pCkN",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 21,
+                            "end": 28,
+                            "text": "cao cấp",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "ZDMXRUqEXf",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 31,
+                            "end": 58,
+                            "text": "vượt hơn khả năng hiểu biết",
+                            "labels": [
+                                "Negative"
+                            ]
+                        },
+                        "id": "eoBy8MzeTz",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T09:00:17.001855Z",
+                "updated_at": "2024-10-05T09:00:17.001855Z",
+                "draft_created_at": "2024-10-05T08:55:18.584517Z",
+                "lead_time": 359.647,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "53855044-fd74-4c72-981a-24db9fbadfb9",
+                "import_id": null,
+                "last_action": null,
+                "task": 24471,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "dạy kiến thức khá là cao cấp , vượt hơn khả năng hiểu biết của đa số sinh viên ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T09:00:17.130346Z",
+        "inner_id": 1619,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 24472,
+        "annotations": [
+            {
+                "id": 22,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 17,
+                            "text": "thầy dạy hiểu bài",
+                            "labels": [
+                                "Sentence Component"
+                            ]
+                        },
+                        "id": "sBoxFeojBg",
+                        "from_name": "sentence_component",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 8,
+                            "text": "thầy dạy",
+                            "labels": [
+                                "Teaching quality"
+                            ]
+                        },
+                        "id": "r9gke1yxm-",
+                        "from_name": "entities",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 9,
+                            "end": 17,
+                            "text": "hiểu bài",
+                            "labels": [
+                                "Positive"
+                            ]
+                        },
+                        "id": "PpkTwOa8ZF",
+                        "from_name": "polarity",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-10-05T09:02:56.692933Z",
+                "updated_at": "2024-10-05T09:02:56.692933Z",
+                "draft_created_at": "2024-10-05T09:00:38.178045Z",
+                "lead_time": 156.104,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a02ccd3a-c520-49fd-b925-83f2aa4d4ae4",
+                "import_id": null,
+                "last_action": null,
+                "task": 24472,
+                "project": 5,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cfc25c9c-sents.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "thầy dạy hiểu bài ."
+        },
+        "meta": {},
+        "created_at": "2024-10-05T06:45:25.575511Z",
+        "updated_at": "2024-10-05T09:02:56.829021Z",
+        "inner_id": 1620,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 5,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
