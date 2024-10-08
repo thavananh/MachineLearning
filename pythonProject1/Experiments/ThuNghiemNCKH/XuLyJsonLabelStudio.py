@@ -32,10 +32,10 @@ for item in data:
         )
 
 # Write the JSON data to a file
-with open('outputSang.json', 'w', encoding='utf-8') as outfile:
+with open('MrDuy_Absa_Labeling/Json/Process/outputSang.json', 'w', encoding='utf-8') as outfile:
     json.dump(annotation_data, outfile, ensure_ascii=False, indent=4)
 
-print("JSON data has been written to output.json")
+print("JSON data has been written to outputDuy.json")
 
 data_list = []
 
@@ -87,7 +87,7 @@ for annotation in annotation_data:
     print("-------------end--------------")
     data_list.append(tmp_list)
 
-with open('testConvertJsonSang.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open('MrDuy_Absa_Labeling/Csv/testConvertJsonSang.csv', 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(headers)
     for row in data_list:
