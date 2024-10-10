@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
+from seleniumbase import Driver
 import csv
 
 options = Options()
@@ -11,11 +12,13 @@ options.add_argument("--window-size=1920x1080")
 # options.add_argument("--headless")
 
 website = 'https://www.audible.com/search'
-path = '/usr/bin/chromedriver'
 
-service = Service(executable_path=path)
-driver = webdriver.Chrome(service=service, options=options)
-driver.get(website)
+driver = Driver(uc = True, browser="chrome", locale_code='vi', )
+driver.maximize_window()
+
+driver.uc_open_with_reconnect(website, 4)
+driver.uc_gui_click_captcha()
+
 
 wait = WebDriverWait(driver, 10)
 
